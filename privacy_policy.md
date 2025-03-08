@@ -1,6 +1,6 @@
 # Privacy Policy
 
-## Last Updated: [Current Date]
+## Last Updated: 2025/03/07
 
 ## Introduction
 
@@ -15,13 +15,12 @@ We may collect the following types of personal information:
 - **Account Information**: Email address, name, and profile information when you create an account
 - **Authentication Data**: Information collected through Google OAuth when you sign in
 - **Usage Data**: Information about how you use our application
-- **Device Information**: IP address, browser type, operating system, and other technical information
 
 ### Information Collected Through Google OAuth
 
 When you authenticate using Google OAuth, we may request access to certain information from your Google account. We only request access to information that is necessary for the functioning of our application. The specific scopes we request include:
 
-- [List specific OAuth scopes your app uses]
+- Email, Youtube and uploading to youtube
 
 ## How We Use Your Information
 
