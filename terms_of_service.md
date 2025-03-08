@@ -1,6 +1,6 @@
 # Terms of Service
 
-## Last Updated: [Current Date]
+## Last Updated: 2025/03/07
 
 ## 1. Acceptance of Terms
 
@@ -8,7 +8,7 @@ By accessing or using Video Feedback (the "Service"), you agree to be bound by t
 
 ## 2. Description of Service
 
-Video Feedback is an application that [brief description of your app's functionality].
+Replay is an app which allows you to store your footage, search through it and export clips of it.
 
 ## 3. User Accounts
 
