@@ -8,7 +8,7 @@ By accessing or using Video Feedback (the "Service"), you agree to be bound by t
 
 ## 2. Description of Service
 
-Replay is an app which allows you to store your footage, search through it and export clips of it.
+Replay is an app that enables users to upload their footage, have it indexed through transcription and action recognition, and export it as clips to social media platforms or as standalone video files.
 
 ## 3. User Accounts
 
@@ -26,9 +26,9 @@ Our Service uses Google OAuth for authentication. By using this feature, you als
 
 ## 4. User Content
 
-### 4.1 Ownership
+### 4.1 Ownership and Data Usage
 
-You retain all rights to any content you submit, post, or display on or through the Service ("User Content"). By submitting User Content, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, modify, adapt, publish, translate, and distribute such content in connection with providing the Service.
+You retain full ownership of any content you submit, post, or display on or through the Service ("User Content"). By submitting User Content, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, modify, and adapt such content solely for the purpose of providing and improving the Service through machine learning. We will not publish your User Content publicly, and it will remain private, accessible only to you, unless you choose to export or share it.
 
 ### 4.2 Prohibited Content
 
